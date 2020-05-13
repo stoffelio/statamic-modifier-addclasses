@@ -1,0 +1,6 @@
+name: AddClasses
+version: 1.0
+description: Add classes to the HTML elements in your output
+url: https://github.com/webographen/statamic-modifier-addclasses
+developer: Alexander Stoffel
+developer_url: https://webographen.de
